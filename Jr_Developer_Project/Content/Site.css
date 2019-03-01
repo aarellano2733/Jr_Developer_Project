@@ -22,3 +22,11 @@ select,
 textarea {
     max-width: 280px;
 }
+.form {
+    background-color: #000000;
+    color: #ffffff;
+}
+.form :hover {
+    background-color: #ffffff;
+    color: #000000;
+}
